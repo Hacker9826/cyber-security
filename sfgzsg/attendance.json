@@ -1,0 +1,47 @@
+[
+    {
+        "username": "student1",
+        "subject": "DBMS",
+        "attendance": "90%"
+    },
+    {
+        "username": "aman",
+        "subject": "DBMS",
+        "attendance": "100%"
+    },
+    {
+        "username": "akshay",
+        "subject": "DBMS",
+        "attendance": "95"
+    },
+    {
+        "username": "aman",
+        "subject": "Operating System",
+        "attendance": "100%"
+    },
+    {
+        "username": "akshay",
+        "subject": "Operating System",
+        "attendance": "90%"
+    },
+    {
+        "username": "aman",
+        "subject": "Computer Networks",
+        "attendance": "95%"
+    },
+    {
+        "username": "akshay",
+        "subject": "Computer Networks",
+        "attendance": "95%"
+    },
+    {
+        "username": "aman",
+        "subject": "Java",
+        "attendance": "90%"
+    },
+    {
+        "username": "akshay",
+        "subject": "Java",
+        "attendance": "100%"
+    }
+]
