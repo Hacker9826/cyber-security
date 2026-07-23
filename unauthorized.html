@@ -1,9 +1,0 @@
-﻿{% extends "base.html" %}
-
-{% block content %}
-<div class="card" style="text-align: center; margin-top: 4rem;">
-  <h1 style="color: #dc2626;">Access Restricted</h1>
-  <p>You do not have authorization to view this page with your current role.</p>
-  <a href="{{ url_for(session.get('role', 'login')) }}" class="btn" style="margin-top: 1rem;">Return to Dashboard</a>
-</div>
-{% endblock %}
