@@ -1,0 +1,21 @@
+﻿{% extends "base.html" %}
+
+{% block content %}
+<div class="card card-auth">
+  <h2 style="margin-top:0; color:#b45309;">Sign In</h2>
+  <form method="POST" action="{{ url_for('login') }}">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" required autocomplete="off">
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required>
+    </div>
+    <button type="submit" class="btn" style="width:100%;">Login</button>
+  </form>
+  <p style="margin-top:1.5rem; text-align:center; color: var(--text-muted);">
+    New user? <a href="{{ url_for('register') }}" style="color:#d97706;">Register as Student</a>
+  </p>
+</div>
+{% endblock %}

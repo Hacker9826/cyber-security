@@ -1,0 +1,47 @@
+[
+    {
+        "username": "student1",
+        "subject": "DBMS",
+        "marks": "70"
+    },
+    {
+        "username": "aman",
+        "subject": "DBMS",
+        "marks": "95"
+    },
+    {
+        "username": "akshay",
+        "subject": "DBMS",
+        "marks": "90"
+    },
+    {
+        "username": "aman",
+        "subject": "Operating System",
+        "marks": "96"
+    },
+    {
+        "username": "akshay",
+        "subject": "Operating System",
+        "marks": "95"
+    },
+    {
+        "username": "aman",
+        "subject": "Computer Networks",
+        "marks": "100"
+    },
+    {
+        "username": "akshay",
+        "subject": "Computer Networks",
+        "marks": "85"
+    },
+    {
+        "username": "aman",
+        "subject": "Java",
+        "marks": "97"
+    },
+    {
+        "username": "akshay",
+        "subject": "Java",
+        "marks": "80"
+    }
+]
